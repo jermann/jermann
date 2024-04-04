@@ -1,5 +1,5 @@
 ### Hello, World 👋
-![](https://github.com/jermann/jermann/blob/master/readme.png)
+![https://github.com/jermann/jermann/blob/master/readme.png](https://github.com/jermann/jermann/blob/main/readme.png)
 ### More of Alexander
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/linkedin.png) [LinkedIn](https://www.linkedin.com/in/alexanderjermann/) - Follow AJ on LinkedIn! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/logo.png) [GitHub](https://github.com/jermann) - Follow AJ on GitHub!
